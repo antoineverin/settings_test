@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Deezer Test</string>
+    <string name="preferences">Preferences</string>
+    <string name="account">Account</string>
+    <string name="display">Display</string>
+    <string name="enable_dark_theme">Enable dark theme</string>
+    <string name="followers" translatable="false">Followers</string>
+    <string name="followings" translatable="false">Followings</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="back">Go back</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences">Préferences</string>
+    <string name="account">Compte</string>
+    <string name="display">Affichage</string>
+    <string name="enable_dark_theme">Activer le thème sombre</string>
+    <string name="profile_picture">Photo de profile</string>
+    <string name="back">Retour en arrière</string>
+</resources>
